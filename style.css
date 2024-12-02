@@ -1,0 +1,359 @@
+html {
+         background: rgb(254, 247, 116);
+         font-family: 'Segoe UI', Tahoma, Geneva;
+         color: darkblue;
+         border-style: solid;
+         border-color: black;
+}
+
+nav > ul {
+             background-color: red;
+             text-align: center;
+             padding: 0;
+}
+
+nav li {
+           padding: 20px;
+           display: inline-block;
+}
+
+nav a {
+          color: lightyellow;
+}
+
+nav li:hover {
+                 background-color: maroon;
+}
+
+nav a:hover  {
+                 color: lightpink;
+}
+
+h1 {
+       text-align: center;
+}
+
+h2 {
+       text-align: center;
+}
+
+#character1 {
+               border-style: solid;
+               border-color: black;
+               margin-bottom: 10px;
+               padding: 5px 10px 15px 20px;
+               background: rgb(255, 255, 191);
+}
+
+#character2 {
+               border-style: solid;
+               border-color: black;
+               margin-bottom: 10px;
+               padding: 5px 10px 15px 20px;
+               background: rgb(255, 255, 191);
+}
+
+#character3 {
+               border-style: solid;
+               border-color: black;
+               margin-bottom: 10px;
+               padding: 5px 10px 15px 20px;
+               background: rgb(255, 255, 191);
+}
+
+#character4{
+               border-style: solid;
+               border-color: black;
+               margin-bottom: 10px;
+               padding: 5px 10px 15px 20px;
+               background: rgb(255, 255, 191);
+}
+
+#character5{
+               border-style: solid;
+               border-color: black;
+               margin-bottom: 10px;
+               padding: 5px 10px 15px 20px;
+               background: rgb(255, 255, 191);
+}
+
+#character6{
+               border-style: solid;
+               border-color: black;
+               margin-bottom: 10px;
+               padding: 5px 10px 15px 20px;
+               background: rgb(255, 255, 191);
+}
+
+#character7{
+               border-style: solid;
+               border-color: black;
+               margin-bottom: 10px;
+               padding: 5px 10px 15px 20px;
+               background: rgb(255, 255, 191);
+}
+
+#character8{
+               border-style: solid;
+               border-color: black;
+               margin-bottom: 10px;
+               padding: 5px 10px 15px 20px;
+               background: rgb(255, 255, 191);
+}
+
+#character9{
+               border-style: solid;
+               border-color: black;
+               margin-bottom: 10px;
+               padding: 5px 10px 15px 20px;
+               background: rgb(255, 255, 191);
+}
+
+#character10{
+               border-style: solid;
+               border-color: black;
+               margin-bottom: 10px;
+               padding: 5px 10px 15px 20px;
+               background: rgb(255, 255, 191);
+}
+
+#character11{
+               border-style: solid;
+               border-color: black;
+               margin-bottom: 10px;
+               padding: 5px 10px 15px 20px;
+               background: rgb(255, 255, 191);
+}
+
+#character12{
+               border-style: solid;
+               border-color: black;
+               margin-bottom: 10px;
+               padding: 5px 10px 15px 20px;
+               background: rgb(255, 255, 191);
+}
+
+#character13{
+               border-style: solid;
+               border-color: black;
+               margin-bottom: 10px;
+               padding: 5px 10px 15px 20px;
+               background: rgb(255, 255, 191);
+}
+
+#character14{
+               border-style: solid;
+               border-color: black;
+               margin-bottom: 10px;
+               padding: 5px 10px 15px 20px;
+               background: rgb(255, 255, 191);
+}
+
+#character15{
+               border-style: solid;
+               border-color: black;
+               margin-bottom: 10px;
+               padding: 5px 10px 15px 20px;
+               background: rgb(255, 255, 191);
+}
+
+#character16{
+               border-style: solid;
+               border-color: black;
+               margin-bottom: 10px;
+               padding: 5px 10px 15px 20px;
+               background: rgb(255, 255, 191);
+}
+
+#character17{
+               border-style: solid;
+               border-color: black;
+               margin-bottom: 10px;
+               padding: 5px 10px 15px 20px;
+               background: rgb(255, 255, 191);
+}
+
+#character18{
+               border-style: solid;
+               border-color: black;
+               margin-bottom: 10px;
+               padding: 5px 10px 15px 20px;
+               background: rgb(255, 255, 191);
+}
+
+#character19{
+               border-style: solid;
+               border-color: black;
+               margin-bottom: 10px;
+               padding: 5px 10px 15px 20px;
+               background: rgb(255, 255, 191);
+}
+
+#character20{
+       border-style: solid;
+       border-color: black;
+       margin-bottom: 10px;
+       padding: 5px 10px 15px 20px;
+       background: rgb(255, 255, 191);
+}
+
+#character21{
+       border-style: solid;
+       border-color: black;
+       margin-bottom: 10px;
+       padding: 5px 10px 15px 20px;
+       background: rgb(255, 255, 191);
+}
+
+#character22{
+       border-style: solid;
+       border-color: black;
+       margin-bottom: 10px;
+       padding: 5px 10px 15px 20px;
+       background: rgb(255, 255, 191);
+}
+
+#character23{
+       border-style: solid;
+       border-color: black;
+       margin-bottom: 10px;
+       padding: 5px 10px 15px 20px;
+       background: rgb(255, 255, 191);
+}
+
+#character24{
+       border-style: solid;
+       border-color: black;
+       margin-bottom: 10px;
+       padding: 5px 10px 15px 20px;
+       background: rgb(255, 255, 191);
+}
+
+#character25{
+       border-style: solid;
+       border-color: black;
+       margin-bottom: 10px;
+       padding: 5px 10px 15px 20px;
+       background: rgb(255, 255, 191);
+}
+
+#character26{
+       border-style: solid;
+       border-color: black;
+       margin-bottom: 10px;
+       padding: 5px 10px 15px 20px;
+       background: rgb(255, 255, 191);
+}
+
+#character27{
+       border-style: solid;
+       border-color: black;
+       margin-bottom: 10px;
+       padding: 5px 10px 15px 20px;
+       background: rgb(255, 255, 191);
+}
+
+#character28{
+       border-style: solid;
+       border-color: black;
+       margin-bottom: 10px;
+       padding: 5px 10px 15px 20px;
+       background: rgb(255, 255, 191);
+}
+
+#character29{
+       border-style: solid;
+       border-color: black;
+       margin-bottom: 10px;
+       padding: 5px 10px 15px 20px;
+       background: rgb(255, 255, 191);
+}
+
+#character30{
+       border-style: solid;
+       border-color: black;
+       margin-bottom: 10px;
+       padding: 5px 10px 15px 20px;
+       background: rgb(255, 255, 191);
+}
+
+#character31{
+       border-style: solid;
+       border-color: black;
+       margin-bottom: 10px;
+       padding: 5px 10px 15px 20px;
+       background: rgb(255, 255, 191);
+}
+
+#character32{
+       border-style: solid;
+       border-color: black;
+       margin-bottom: 10px;
+       padding: 5px 10px 15px 20px;
+       background: rgb(255, 255, 191);
+}
+
+#character33{
+       border-style: solid;
+       border-color: black;
+       margin-bottom: 10px;
+       padding: 5px 10px 15px 20px;
+       background: rgb(255, 255, 191);
+}
+
+#character34{
+       border-style: solid;
+       border-color: black;
+       margin-bottom: 10px;
+       padding: 5px 10px 15px 20px;
+       background: rgb(255, 255, 191);
+}
+
+#character35{
+       border-style: solid;
+       border-color: black;
+       margin-bottom: 10px;
+       padding: 5px 10px 15px 20px;
+       background: rgb(255, 255, 191);
+}
+
+#character36{
+       border-style: solid;
+       border-color: black;
+       margin-bottom: 10px;
+       padding: 5px 10px 15px 20px;
+       background: rgb(255, 255, 191);
+}
+
+section:target {
+                   display: block;
+}
+
+section {
+            display: none;
+}
+
+#navbar > ul {
+           background-color: orange;
+           padding: 0;
+           text-align: center;
+}
+
+footer {
+           margin-top: auto;
+           text-align: center;
+           padding: 10px;
+           background: red;
+}
+
+.image {
+           text-align: center;
+}
+
+#Introduction1 {
+       display: block;
+}
+
+#Introduction2 {
+       display: block;
+}
