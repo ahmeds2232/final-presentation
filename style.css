@@ -346,14 +346,78 @@ footer {
            background: red;
 }
 
-.image {
+.picture {
            text-align: center;
 }
 
 #Introduction1 {
-       display: block;
+       border-style: solid;
+               border-color: black;
+               margin-bottom: 10px;
+               padding: 5px 10px 15px 20px;
+               background: rgb(255, 255, 191);
+               display: none;
+               display: block;
 }
 
 #Introduction2 {
-       display: block;
+       border-style: solid;
+               border-color: black;
+               margin-bottom: 10px;
+               padding: 5px 10px 15px 20px;
+               background: rgb(255, 255, 191);
+               display: none;
+               display: block;
 }
+
+#Impact1 {
+       border-style: solid;
+               border-color: black;
+               margin-bottom: 10px;
+               padding: 5px 10px 15px 20px;
+               background: rgb(255, 255, 191);
+               display: none;
+               display: block;
+}
+
+#Impact2 {
+       border-style: solid;
+               border-color: black;
+               margin-bottom: 10px;
+               padding: 5px 10px 15px 20px;
+               background: rgb(255, 255, 191);
+               display: none;
+               display: block;
+}
+
+.Original {
+       display: flex;
+       justify-content: flex-start;
+       align-items: center;
+       gap: 180px;
+       padding-left: 50px;
+}
+
+.Reboot {
+       display: flex;
+       justify-content: flex-start;
+       align-items: center;
+       gap: 180px;
+       padding-left: 50px;
+}
+
+.image {
+       width: 100%;
+       height: auto;
+}
+
+img{
+       width: 45%;
+}
+
+.para {
+       text-align: left;
+       width: 45%;
+}
+
+
